@@ -36,9 +36,10 @@ application dans des domaines où la transparence est primordiale.
 
 
 Installation
+
 1 Cloner le dépôt
 Clonez le dépôt GitHub en utilisant la commande suivante :
-git clone  [lien du dépôt]
+git clone git@github.com:khadimfall2/ProjetGNN.git
 
 
 2 Préparer l'environnement
