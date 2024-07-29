@@ -1,7 +1,5 @@
 # ProjetGNN
 
-# ProjetGNN
-
 GNNExplainer: Visualisation des Explications
 d’un GNNExplainer sur un Réseau de Neurones
 Graphique
