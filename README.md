@@ -16,7 +16,6 @@ Le projet utilise le dataset **Mondiale.P**.
 
 ### 1. Cloner le dépôt
 git clone git@github.com:khadimfall2/ProjetGNN.git
-cd ProjetGNN
 
 ### 2. Environnement virtuel
 Il est recommandé d'installer les dépendances dans un environnement isolé :
